@@ -1,0 +1,6 @@
+dork for subdomain finding 
+
+site:example.com -www 
+site:example.com inurl:subdomain
+site:*.example.com
+Site:example.com
